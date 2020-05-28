@@ -1,4 +1,4 @@
 public interface Developer {
 
-    public void makeJob();
+    public String makeJob();
 }
