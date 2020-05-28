@@ -1,1 +1,1 @@
-How to use Decorator
+How to use Decorator (Patterns)
